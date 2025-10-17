@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "firebase": "^12.4.0"
+  },
+  "name": "lasmariasapp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
